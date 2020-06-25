@@ -1,5 +1,5 @@
 # Birthday-Card
-[Birthday Card App]()
+![Birthday Card App](birthday.png)
 ## Built with:
 * Android Studio
 * Kotlin
